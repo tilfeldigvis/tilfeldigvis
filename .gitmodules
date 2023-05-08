@@ -1,0 +1,3 @@
+[submodule "ikkefeil"]
+	path = ikkefeil
+	url = https://github.com/tilfeldigvis/tilfeldigvis
