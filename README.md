@@ -1,3 +1,3 @@
 # Heldigvis er eposten til Pippi: xpippi@zohomail.eu 
-og heldigvis kan kan neppe stave godt.
+Og heldigvis kan kan neppe staves 'godt' heller.
 Men tilfeldigvis skrives ikke slik!
